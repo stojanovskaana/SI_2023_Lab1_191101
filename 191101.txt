@@ -1,0 +1,41 @@
+1. Имам векје направено GitHub account и имам инсталирано git( git version 2.40.0.windows.1)
+
+2. Го сменив името во на главната гранка во master.
+
+3. Креирав одалечен репозиториум на GitHub со име SI_2023_lab1_191101.
+
+4. Направив директориун на мојот компјутер и иницијализирав git со командите: 
+	mkdir SI_2023_lab1_191101
+	cd SI_2023_lab1_191101
+    	git init
+
+5. Го поврзав локалниот репозиториум со далечниот со команда:
+	git remote add origin https://github.com/stojanovskaana/SI_2023_Lab1_191101.git
+
+6. Направив датотека и направив commit со порака Initial Commit. Користени комадни:
+	type nul > README.md
+	echo Ana Stojanovska 191101 > README.md
+	git add README.md
+	git commit -m "Initial Commit"
+
+7. Направив нова java датотека и ја комитнав со текст Add Java class. Користени комадни:
+	type nul > SILab1.java
+	git add  SILab1.java
+	git commit -m "Add Java class"
+
+8. Ги синхронизирав гранките. Користени команди:
+	git push origin master
+
+27. Направив нова датотека и ги ставив логовите во неа. Користени команди:
+	type nul > logs.txt
+	git --no-pager log > logs.txt
+	
+        - Ја копирав оваа датотека и ја ставив во папката SI_2023_Lab1_191101
+	copy 191101.txt C:\Users\Ana\Desktop\SI_2023_lab1_191101
+	
+        - Направив commit
+
+28. Ги синхронизирав сите гранки 
+	
+	
+	

@@ -1,0 +1,30 @@
+commit f3528ca68920d92a1ed9f80abbc3635fe702094e
+Merge: acb2ed0 82ad03b
+Author: Ana Stojanovska <anastojanovskaaaa@gmail.com>
+Date:   Sun Apr 9 15:17:27 2023 +0200
+
+    Merge branch 'master' of https://github.com/stojanovskaana/SI_2023_Lab1_191101
+
+commit 82ad03bb5f527ee3fe57f55533baac4a90f58c8e
+Author: Ana Stojanovska <93766106+stojanovskaana@users.noreply.github.com>
+Date:   Sun Apr 9 15:12:20 2023 +0200
+
+    Delete README.md
+
+commit acb2ed0209650fda1e982cffe64c6cdcea0ccc8a
+Author: Ana Stojanovska <anastojanovskaaaa@gmail.com>
+Date:   Sun Apr 9 14:25:42 2023 +0200
+
+    Add Java class
+
+commit 9f737c7d36a5cecd17506e23cd5b2a25c459658d
+Author: Ana Stojanovska <anastojanovskaaaa@gmail.com>
+Date:   Sun Apr 9 14:15:06 2023 +0200
+
+    Initial Commit
+
+commit 74682ea6e17f9c09334edd2d3574a1567a9d5313
+Author: stojanovskaana <93766106+stojanovskaana@users.noreply.github.com>
+Date:   Sun Apr 9 13:10:56 2023 +0200
+
+    Initial commit
